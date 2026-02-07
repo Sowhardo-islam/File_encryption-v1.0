@@ -1,0 +1,8 @@
+file to hex 
+
+HexFileConverter.exe song.ogg
+
+
+hex to file 
+
+HexFileConverter.exe song.ogg.hex

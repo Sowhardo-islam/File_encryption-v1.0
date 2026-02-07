@@ -1,0 +1,11 @@
+to encrypt file ------------
+
+1) fist copy the file to (file to hex) directory
+2)go to  diretory and type  cmd and go commands
+3)after you copy hex file to (Text_file_ encryption - Copy) and remave it .txt
+4)now follw instruction in exe 
+5)done -==========-==-
+
+
+
+to decrypt just revese this process============
